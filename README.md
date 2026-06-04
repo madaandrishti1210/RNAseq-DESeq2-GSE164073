@@ -35,3 +35,20 @@ This project performs RNA-seq differential expression analysis using DESeq2 on G
 ## Author
 
 Drishti Madaan
+## Results
+
+### PCA Plot
+
+![PCA](PCA.png)
+
+### MA Plot
+
+![MA Plot](MAplot.png)
+
+### Heatmap
+
+![Heatmap](Heatmap.png)
+
+### Volcano Plot
+
+![Volcano Plot](Volcano.png)
